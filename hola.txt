@@ -1,2 +1,6 @@
 hola que tal 
 cambios uno
+Quiero ser un conflicto 
+Yo tambien deseo serlo
+Yo soy el conflicto
+XXXXX
