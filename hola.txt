@@ -1,7 +1,11 @@
+Master 1
 hola que tal 
 cambios uno
-Master 1
-Master 2
 Master 3
+Master 2
 Master 4 
+Quiero ser un conflicto 
 Master 5
+Yo tambien deseo serlo
+XXXXX
+Yo soy el conflicto
